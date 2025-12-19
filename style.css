@@ -1,9 +1,42 @@
 body{
     background-color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 .blog-card{
     width: 400px;
     background: #FEEAC9;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 12px;
+    box-shadow: 5px 5px 15px #888888;
+    margin-top: 150px;
+    margin-left: 200px;
+    
 }
+.blog-card h2{
+    margin-bottom: 30px;
+    color: #FF5555;
 
+}
+.blog-card p{
+    font-size: 15px;
+    line-height: 1.6;
+}
+.blog-card .date{
+
+    margin-top: 15px;
+    font-size: 15px;
+}
+.blog-card img{
+    width: 100%;
+    
+}
+.web-footer{
+    margin-top: 200px;
+    text-align: center;
+}
+.navbar{
+    justify-content: space-between;
+    padding: 50px;
+}
