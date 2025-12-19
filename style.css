@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blog-card{
+    width: 400px;
+    background: #FEEAC9;
+}
+
